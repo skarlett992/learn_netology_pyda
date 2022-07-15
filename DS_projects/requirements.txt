@@ -53,7 +53,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 dill==0.3.2
 distlib==0.3.1
-distributed==2.1.0
+distributed==2021.10.0
 docutils==0.14
 efficientnet==1.1.0
 entrypoints==0.3
